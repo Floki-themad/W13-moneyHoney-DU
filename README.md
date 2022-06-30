@@ -13,15 +13,18 @@ SO THAT my company can compete with other e-commerce companies
 * run the command ```npm i``` from the server.js terminal 
 * run the command ```npm run seed```
 * run ```npm start```
+* open Insomnia and copy and paste this URL "http://localhost:3001/api/"
+* test the routes by adding one of the following to the end of the URL ```{products, tags, categories}``` 
+
+<img src ="img/Screen Shot 2022-06-30 at 5.45.31 PM.png">
+
+*  If your not familiar with how Insomnia works here’s some helpful    [documentation!](https://docs.insomnia.rest/)
 
 ## Demo
-[Here is a video demo of uploading the Schema to MySQL](https://youtu.be/q3c0G1pvFbw)
+Here is a video demo of uploading the [Schema to MySQL](https://youtu.be/q3c0G1pvFbw)
 
-[heres a video demo of the categories in Insomnia](https://youtu.be/ZBUReyq7Ijc)
-
-[heres a video demo on the products in Insomnia](https://youtu.be/9Uc-q6I3T68)
-
-[heres a video demo of the tags in Insomnia](https://youtu.be/hazdbt3Dja4)
+heres a video demo on how the different routes work: [categories](https://youtu.be/ZBUReyq7Ijc), [products ](https://youtu.be/9Uc-q6I3T68),
+[tags](https://youtu.be/hazdbt3Dja4)
 
 
 ## Questions
