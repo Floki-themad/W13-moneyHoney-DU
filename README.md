@@ -15,11 +15,13 @@ SO THAT my company can compete with other e-commerce companies
 * run ```npm start```
 
 ## Demo
-[heres a video demo of the categories in Insomnia](https://youtu.be/6ky08KpNMm0)
+[Here is a video demo of uploading the Schema to MySQL](https://youtu.be/q3c0G1pvFbw)
 
-[heres a video demo on the products in Insomnia](https://youtu.be/j2tniFh-HuE)
+[heres a video demo of the categories in Insomnia](https://youtu.be/ZBUReyq7Ijc)
 
-[heres a video demo of the tags in Insomnia](https://youtu.be/QOqvjBIbWDA)
+[heres a video demo on the products in Insomnia](https://youtu.be/9Uc-q6I3T68)
+
+[heres a video demo of the tags in Insomnia](https://youtu.be/hazdbt3Dja4)
 
 
 ## Questions
